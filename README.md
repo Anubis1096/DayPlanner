@@ -1,6 +1,6 @@
 # DayPlanner
 
-This is a simple day planner that can help plan out a general working day. It runs for general office hours. It can save data to your local device and keep it there until it is manually cleared out by the user. 
+This is a simple day planner that can help plan out a general working day. It runs for general office hours. It can save data to your local device and keep it there until it is manually cleared out by the user. Note, the time was added to the day planner after the screenshot below was taken. 
 
 Below are the instructions for this planner: 
 
