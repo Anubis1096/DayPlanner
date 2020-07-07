@@ -22,3 +22,4 @@ THEN the saved events persist
 
 ## Screenshot
 
+![DayPlanner](https://user-images.githubusercontent.com/65513935/86710162-85ac0480-bfcf-11ea-8322-ef96d24d3fdd.JPG)
